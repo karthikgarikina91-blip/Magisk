@@ -200,7 +200,8 @@
 ### v24.2 (2022.3.1)
 
 - [MagiskSU] Fix buffer overflow
-- [MagiskSU] Fix owner managed multiuser superuser settings
+- [MagiskSU
+- ] Fix owner managed multiuser superuser settings
 - [MagiskSU] Fix command logging when using `su -c <cmd>`
 - [MagiskSU] Prevent su request indefinite blocking
 - [MagiskBoot] Support `lz4_legacy` archive with multiple magic
@@ -896,4 +897,4 @@
 
 ### [v1 (2016.8.3)](https://xdaforums.com/t/magisk-general-support-discussion.3432382/post-68034103)
 
-- Initial release
+- Initial release me also my device rooted but not shown rooted
